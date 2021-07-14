@@ -1,5 +1,6 @@
 ### A simple Web App displaying the price of Bitcoin-Cash
 
+# This Web App was creating with React, [Recharts](http://recharts.org/en-US/), and deployed using Vercel.
 
 ## `npm start`
 
