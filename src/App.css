@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.Bch-logo {
+  height: 7vmin;
+  pointer-events: none;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.bitcoinCash {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.buttons {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+
+.btn-hours {
+  background-color: #0275d8;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 90px;
+}
+
+.btn-days {
+  background-color: #6b5b95;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 90px;
+}
+
+.btn-months {
+  background-color: #ff6f61;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 90px;
+}
+
+.btn-xxl {
+  padding: 1rem 1rem;
+  font-size: 1rem;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(180deg);
+  }
+}
