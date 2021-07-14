@@ -1,4 +1,4 @@
-## [Bitcoin Cash](https://bitcoin-cash.vercel.app/) A simple Web App displaying the price of Bitcoin-Cash
+## [Bitcoin Cash](https://bitcoin-cash.vercel.app/) is a simple Web App displaying the price of Bitcoin-Cash!
 
 ### This web app was created with [React](https://reactjs.org/), [Recharts](http://recharts.org/en-US/), and deployed using Vercel.
 
