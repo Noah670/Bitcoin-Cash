@@ -1,7 +1,9 @@
 ## [Bitcoin Cash](https://bitcoin-cash.vercel.app/) A simple Web App displaying the price of Bitcoin-Cash
 
-### This Web App was creating with [React](https://reactjs.org/), [Recharts](http://recharts.org/en-US/), and deployed using Vercel.
+### This web app was created with [React](https://reactjs.org/), [Recharts](http://recharts.org/en-US/), and deployed using Vercel.
 
+
+## Setup
 ### `npm start`
 
 - Runs the app in the development mode.\
